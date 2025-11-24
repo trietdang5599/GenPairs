@@ -1,0 +1,10 @@
+__pycache__
+.mypy_cache
+
+*.ipynb
+.venv
+.env
+outputs/gpt2*
+outputs/results/
+final_result
+logs
